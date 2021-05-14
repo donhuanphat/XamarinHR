@@ -1,3 +1,3 @@
 Có gì mới:
-- Không có gì mới hết
+- Chức năng xem Bình bầu
 - Test hệ thống cập nhật
