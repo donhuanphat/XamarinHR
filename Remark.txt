@@ -1,3 +1,2 @@
 Có gì mới:
-- Chức năng xem Bình bầu
-- Test hệ thống cập nhật
+- Thực đơn mỗi ngày.
